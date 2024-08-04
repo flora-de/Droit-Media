@@ -1,0 +1,192 @@
+.scrollToTop {
+  background-color: rgb(255, 217, 0);
+  color: #fff;
+}
+
+.scrollToTop:hover,
+.scrollToTop:focus {
+  background-color: rgb(255, 215, 0);
+  color: rgb(255, 215, 0);
+  border: 1px solid rgb(255, 215, 0);
+}
+
+.logo > span {
+  color: rgb(255, 215, 0);
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  background-color: rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background-color: rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background-color: rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.latest_newsarea span {
+  background: none repeat scroll 0 0 rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.latest_post > h2 span {
+  background: none repeat scroll 0 0 rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+#prev-button {
+  color: rgb(255, 215, 0);
+}
+
+#next-button {
+  color: rgb(255, 215, 0);
+}
+
+.single_post_content > h2 span {
+  background: none repeat scroll 0 0 rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.single_sidebar > h2 span {
+  background: none repeat scroll 0 0 rgb(255, 215, 0);
+  color: black;
+  font-weight: bolder;
+}
+
+.bsbig_fig figcaption a:hover {
+  color: rgb(255, 215, 0);
+}
+
+.spost_nav .media-body > a:hover {
+  color: rgb(255, 215, 0);
+}
+
+.cat-item a:hover {
+  background-color: rgb(255, 215, 0);
+}
+
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+  background-color: rgb(255, 215, 0);
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  background-color: rgb(255, 215, 0);
+}
+
+.single_sidebar > ul > li a:hover {
+  color: rgb(255, 215, 0);
+}
+
+.footer_widget > h2:hover {
+  color: rgb(255, 215, 0);
+}
+
+.tag_nav li a:hover {
+  color: rgb(255, 215, 0);
+  border-color: rgb(255, 215, 0);
+}
+
+.copyright a:hover {
+  color: rgb(255, 215, 0);
+}
+
+.post_commentbox a:hover,
+.post_commentbox span:hover {
+  color: rgb(255, 215, 0);
+}
+
+.breadcrumb {
+  border-left: 10px solid rgb(255, 215, 0);
+}
+
+.single_page_content ul li:before {
+  background-color: rgb(255, 215, 0);
+}
+
+.single_page_content h2,
+.single_page_content h3,
+.single_page_content h4,
+.single_page_content h5,
+.single_page_content h6 {
+  color: rgb(255, 215, 0);
+}
+
+.nav-slit .icon-wrap {
+  background-color: rgb(255, 215, 0);
+}
+
+.nav-slit h3 {
+  background: rgb(255, 215, 0);
+}
+
+.catgArchive {
+  background-color: rgb(255, 215, 0);
+}
+
+.error_page > h3 {
+  color: rgb(255, 215, 0);
+}
+
+.error_page > span {
+  background: none repeat scroll 0 0 rgb(255, 215, 0);
+}
+
+.error_page > a {
+  background-color: rgb(255, 215, 0);
+}
+
+.contact_area > h2 {
+  background-color: rgb(255, 215, 0);
+}
+
+.contact_form input[type="submit"] {
+  background-color: rgb(255, 215, 0);
+}
+
+.contact_form input[type="submit"]:hover {
+  background-color: #fff;
+  color: rgb(255, 215, 0);
+}
+
+.related_post > h2 i {
+  color: rgb(255, 215, 0);
+}
+
+.form-control:focus {
+  border-color: rgb(255, 215, 0);
+  box-shadow: 0 0px 1px rgb(255, 215, 0) inset, 0 0 5px rgb(255, 215, 0);
+}
+.header_top_right p {
+  color:  white; /* Set the color to gold */
+}
+.top_nav li a:hover {
+  background-color: rgb(66, 238, 250); /* Set the background color to white on hover */
+  color: black; /* Optional: Change text color to gold to maintain contrast */
+}
+
